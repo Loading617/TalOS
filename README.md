@@ -1,2 +1,2 @@
 # TalOS
-Desktop Experience in Browser
+A Desktop Experience
